@@ -1,0 +1,9 @@
+PERSONAL WEBSITE CHECKLIST
+
+1. Replace assets/images/profile-placeholder.svg with your photo.
+2. Confirm email: Rashmikant1990@gmail.com
+3. Confirm GitHub: https://github.com/Rashmikant15
+4. Confirm LinkedIn: https://www.linkedin.com/in/rashmikant-upadhyay-6921154a/
+5. Review publication statuses (especially manuscripts under review/submission).
+6. Add DOI/publisher links if desired.
+7. Update the PDF in assets/files/ whenever your CV changes.
